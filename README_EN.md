@@ -1,3 +1,4 @@
+Note: Marcus-P-114514 is my pervious account.
 
 # 呆啵宠物  |  DyberPet
 [![License](https://img.shields.io/github/license/ChaozhongLiu/DyberPet.svg)](LICENSE)
